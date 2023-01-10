@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kosmos/static/css/main.caf3956c.css",
+    "main.js": "/kosmos/static/js/main.f9b4dd32.js",
+    "index.html": "/kosmos/index.html",
+    "main.caf3956c.css.map": "/kosmos/static/css/main.caf3956c.css.map",
+    "main.f9b4dd32.js.map": "/kosmos/static/js/main.f9b4dd32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caf3956c.css",
+    "static/js/main.f9b4dd32.js"
+  ]
+}
